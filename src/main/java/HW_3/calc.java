@@ -14,7 +14,6 @@ package HW_3;
 //        Обратите внимание, что в этой задаче мы использовали собственное исключение InvalidInputException, чтобы явно
 //        указать на некорректный ввод. Это помогает разделить обработку ошибок на соответствующие уровни абстракции.**
 
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
