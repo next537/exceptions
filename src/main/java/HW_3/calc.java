@@ -38,7 +38,6 @@ public class calc {
                     scanner.nextLine();
                 }
             }
-
             while (true) {
                 try {
                     System.out.print("Введите показатель степени: ");
